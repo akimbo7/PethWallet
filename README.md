@@ -1,4 +1,4 @@
-# **PethWallet**
+# **PethWallet** (pee·th) 
 
 An Aesthetically Pleasing Ethereum Wallet. Built In Python, Made For The Command Line.
 
